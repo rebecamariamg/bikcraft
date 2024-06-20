@@ -1,1 +1,6 @@
-![screencapture-file-C-Users-Samsung-Desktop-bikcraft-index-html-2024-06-20-17_46_06](https://github.com/rebecamariamg/bikcraft/assets/95034178/4f625d1b-e2ab-4584-beea-02bf95c2b189)
+Bikcraft 
+O projeto
+O projeto Bikcraft é um exercício de desenvolvimento web front-end, criado para demonstrar uma página de vendas de uma loja de bicicletas - a Bikcraft. O projeto foi desenvolvido utilizando HTML, CSS e media queries para garantir que o design seja adaptável a vários tamanhos de tela e dispositivos. Este projeto marca a conclusão da primeira parte do curso de front-end da Origamid.
+
+https://github.com/rebecamariamg/bikcraft/assets/95034178/edf79d9c-bbd1-40c6-a79d-417d7ea60b41
+
