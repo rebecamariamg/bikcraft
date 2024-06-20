@@ -1,0 +1,18 @@
+1. Ajustar img bicicleta para a altura
+Criar uma div "introdução cover" para envolver a imagem e utilizar o object fit na imagem da div
+
+2. media querie para abaixo de 1000px
+Quebrar a linha usando media querie para abaixo de 1000px
+grid template de 1 fr para o conteudo-vantagem (arrumar html)
+alinhar subtitulo ao centro
+
+3. media querie para abaixo de 600px
+todo conteudo para uma coluna apenas
+retirar detalhe com display none
+reduzir gap para 30px margin top para 20px
+gap da nav para 30px
+alinhar texto a esquerda
+reduzir subtitulo pra 3rem
+
+4. media querie para abaixo de 400px
+reduzir subtitulo pra 2rem
